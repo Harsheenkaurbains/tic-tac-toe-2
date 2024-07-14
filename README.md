@@ -1,1 +1,1 @@
-he Tic-Tac-Toe Game project is a classic implementation of the popular two-player game, developed using HTML, CSS, and JavaScript. This project aims to create an interactive and visually appealing version of Tic-Tac-Toe that can be played directly in a web browser.
+The Tic-Tac-Toe Game project is a classic implementation of the popular two-player game, developed using HTML, CSS, and JavaScript. This project aims to create an interactive and visually appealing version of Tic-Tac-Toe that can be played directly in a web browser.
